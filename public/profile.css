@@ -1,0 +1,66 @@
+body{
+  background-image: url(img/abstractHex.jpg);
+  background-position: unset;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  background: whitesmoke;
+}
+#logoutBtn{
+  width: 10em;
+  margin-top: 4em;
+}
+#centerDiv{
+  margin-top: 10em;
+  text-align: center;
+}
+.feedLink{
+  font-size: 40px;
+}
+h1{
+  font-size: 60px;
+  margin-bottom: 25px;
+  color: #5cb85b;
+}
+h2{
+  font-size: 45px;
+}
+input{
+  display: block;
+  margin: auto;
+  width: 22em;
+  text-align: center;
+}
+#btn{
+  margin-top: 15px;
+  font-size: 20px;
+}
+a{
+  color: #5cb85b;
+}
+#makePostSection{
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+.makeAPost{
+  width: 30%;
+  height: 32em;
+  background: whitesmoke;
+  text-align: center;
+}
+.thePosts{
+  width: 50%;
+  text-align: center;
+}
+li{
+  list-style: none;
+}
+img{
+  height: auto;
+  width: 40em;
+}

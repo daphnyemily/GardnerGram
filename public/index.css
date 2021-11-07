@@ -1,0 +1,21 @@
+body{
+  background-image: url(img/abstractLogin.jpg);
+  background-position: unset;
+  background-repeat: repeat;
+  background-size: cover;
+}
+#centerDiv{
+  margin-top: 15em;
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+  margin-bottom: 25px;
+  color: #5cb85b;
+}
+.loginOrSignUp,#btn{
+  font-size: 25px;
+}
+span{
+  color: #5cb85b;
+}

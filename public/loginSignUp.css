@@ -1,0 +1,27 @@
+body{
+  background-image: url(img/abstractLogin.jpg);
+  background-position: unset;
+  background-repeat: repeat;
+  background-size: cover;
+}
+#centerDiv{
+  margin-top: 10em;
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+  margin-bottom: 25px;
+  color: #5cb85b;
+}
+input{
+  display: block;
+  margin: auto;
+  width: 30em;
+  text-align: center;
+}
+#btn{
+  font-size: 25px;
+}
+a{
+  color: #5cb85b;
+}
